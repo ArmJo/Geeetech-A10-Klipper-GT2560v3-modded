@@ -9,7 +9,7 @@ I use:
 
 **Filament runout sensor is not used**
 
-Based on the work of [GusBricker](https://github.com/GusBricker/GeeetechA10_Klipper)
+Based on [GusBricker's](https://github.com/GusBricker/GeeetechA10_Klipper) work
 
 ## Features
 
